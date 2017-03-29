@@ -28,6 +28,7 @@ public class chitchatjavaServer extends javax.swing.JFrame {
         lb_status = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Server");
 
         jLabel1.setText("PORT : ");
 
